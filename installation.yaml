@@ -1,4 +1,5 @@
 distribution_code_name: "fcitx-rime"
+sync_dir: /mnt/SPZX/Backup/Rime_sync
 distribution_name: Rime
 distribution_version: 5.0.14
 install_time: "Wed Aug 10 15:54:08 2022"
