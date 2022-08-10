@@ -3,4 +3,4 @@ build/
 scel2rime/yaml/
 scel2rime/scel/
 scel2rime/__pycache__/
-
+installation.yaml
