@@ -1,2 +1,4 @@
 *.userdb/
 build/
+scel2rime/yaml/
+scel2rime/scel/

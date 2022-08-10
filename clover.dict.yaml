@@ -17,5 +17,8 @@ import_tables:
   - THUOCL_lishimingren
   - THUOCL_medical
   - THUOCL_poem
-  - sogou_new_words
-
+  - sogou-new_words
+  - sogou-computer
+  - sogou-mechanics
+  - sogou-development
+  - sogou-electricity
