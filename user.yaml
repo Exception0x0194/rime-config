@@ -1,11 +1,12 @@
 var:
-  last_build_time: 1662304027
+  last_build_time: 1667629350
   option:
     ascii_punct: false
     full_shape: false
-  previously_selected_schema: clover
+  previously_selected_schema: jp_sela
   schema_access_time:
     clover: 1660118210
     clover_terra: 1660046889
+    jp_sela: 1667629367
     luna_pinyin_simp: 1660059586
     numbers: 1660118205
